@@ -1,5 +1,4 @@
  👋 Hi, I’m Skie
- 🌱 I’m currently learning Rust.
 
 <!---
 skie107/skie107 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
