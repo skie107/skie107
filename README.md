@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Skie
-- 👀 I’m interested in Gaming
 - 🌱 I’m currently learning Rust.
 
 **Just for some profile view**
